@@ -30,10 +30,10 @@ twitter_username: eliesercapillar
 github_username:  eliesercapillar
 
 # Build settings
-#theme: minima
+theme: minima
 #theme: cvless
 #remote_theme: piazzai/cvless
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: oinam/oinam-jekyll
 plugins:
   - jekyll-feed
