@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Development-Blog
+title: My Development Blog
 email: elieser.capillar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A static website containing posts about the projects I've been working on.
   Created using Ruby and the Jenkins framework.
   Hosted on GitHub Pages.
-baseurl: "/My-Development-Blog" # the subpath of your site, e.g. /blog
 url: "https://eliesercapillar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/My-Development-Blog" # the subpath of your site, e.g. /blog
 twitter_username: eliesercapillar
 github_username:  eliesercapillar
 
 # Build settings
-#theme: minima
-remote_theme: oinam/oinam-jekyll
+theme: minima
+#remote_theme: oinam/oinam-jekyll
 plugins:
   - jekyll-feed
 
