@@ -160,7 +160,7 @@ teaser                   : "/assets/images/400x400.png" # path of fallback tease
 # Site Author
 author:
   name             : "Elieser Capillar"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-500x500.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programmer. Enthusiast Game Developer."
   location         : "Winnipeg, Manitoba"
   email            : elieser.capillar@gmail.com
