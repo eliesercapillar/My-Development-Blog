@@ -67,13 +67,13 @@ plugins:
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin  : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-CA"
 title                    : "Salty Projects"
 title_separator          : "-"
-subtitle                 : "salt."# site tagline that appears below site title in masthead
+subtitle                 : "salt."  # site tagline that appears below site title in masthead
 name                     : "Elieser Capillar"
 description              : "A static website containing posts about the projects I've been working on. Created using Ruby and the Jenkins framework. Hosted on GitHub Pages."
 url                      : "https://eliesercapillar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -167,7 +167,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:elieser.capillar@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://eliesercapillar.github.io/"
@@ -189,13 +189,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/eliesercapillar"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/eliesercapillar"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -204,7 +204,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/eliesercapillar"
 
 
 # Reading Files
