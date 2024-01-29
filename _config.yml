@@ -77,7 +77,7 @@ subtitle                 : "salt."  # site tagline that appears below site title
 name                     : "Elieser Capillar"
 description              : "A static website containing posts about the projects I've been working on. Created using Ruby and the Jenkins framework. Hosted on GitHub Pages."
 url                      : "https://eliesercapillar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/My-Development-Blog" # the subpath of your site, e.g. "/blog"
 repository               : "eliesercapillar/My-Development-Blog"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -157,54 +157,54 @@ repository               : "eliesercapillar/My-Development-Blog"  # GitHub usern
 # #     anonymize_ip         : # true, false (default)
 
 
-# # Site Author
-# author:
-#   name             : "Elieser Capillar"
-#   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : "Programmer. Enthusiast Game Developer."
-#   location         : "Winnipeg, Manitoba"
-#   email            : elieser.capillar@gmail.com
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:elieser.capillar@gmail.com"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://eliesercapillar.github.io/"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/eliesercapillar"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/eliesercapillar"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/eliesercapillar"
+# Site Author
+author:
+  name             : "Elieser Capillar"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Programmer. Enthusiast Game Developer."
+  location         : "Winnipeg, Manitoba"
+  email            : elieser.capillar@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:elieser.capillar@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://eliesercapillar.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eliesercapillar"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/eliesercapillar"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/eliesercapillar"
 
-# # Site Footer
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/eliesercapillar"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url:
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/eliesercapillar"
-#     - label: "GitLab"
-#       icon: "fab fa-fw fa-gitlab"
-#       # url:
-#     - label: "Bitbucket"
-#       icon: "fab fa-fw fa-bitbucket"
-#       # url:
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/eliesercapillar"
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eliesercapillar"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/eliesercapillar"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/eliesercapillar"
 
 
 # # Reading Files
