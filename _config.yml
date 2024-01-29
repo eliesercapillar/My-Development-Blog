@@ -29,12 +29,30 @@ baseurl: "/My-Development-Blog" # the subpath of your site, e.g. /blog
 twitter_username: eliesercapillar
 github_username:  eliesercapillar
 
+# Collections
+# collections_dir: collections
+# collections:
+#   posts:
+#     permalink: "/:collection/:path/"
+#     output: "true"
+  
+# Default Front Matter
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#       values: 
+#         layout: "page"
+#         author: "Elieser Capillar"
+
 # Build settings
-theme: minima
+#theme: minima
 #theme: cvless
+#theme: contrast
 #remote_theme: piazzai/cvless
 #remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: oinam/oinam-jekyll
+remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

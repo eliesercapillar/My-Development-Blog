@@ -2,7 +2,8 @@
 layout: post
 title:  "Setting up Jekyll and GitHub Pages!"
 date:   2024-01-27 23:56:18 -0600
-categories: lessons
+permalink: "/:categories/jekyll-and-ghpages"
+categories: experiences
 ---
 I had set this up a few years ago for a University of Manitoba assignment so it was fairly simple to do again. I followed a 6 year old guide by [Mike from Giraffe Academy][youtube-jekyll-tutorial] which suprisingly has held up pretty well. I remembered most of the content so understanding important concepts such like [Front Matter][front-matter] setting up the important files such as the `_config.yml` and the `Gemfile` was pretty simple. The difficult task was serving the site on [GitHub Pages][github-pages].
 
