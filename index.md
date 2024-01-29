@@ -1,10 +1,4 @@
 ---
-layout: default
-title: "Home"
+layout: home
+author_profile: true
 ---
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}

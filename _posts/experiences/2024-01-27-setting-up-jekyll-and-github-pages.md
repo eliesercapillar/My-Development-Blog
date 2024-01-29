@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Setting up Jekyll and GitHub Pages!"
 date:   2024-01-27 23:56:18 -0600
 permalink: "/:categories/jekyll-and-ghpages"
