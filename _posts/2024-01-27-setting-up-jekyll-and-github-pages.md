@@ -11,9 +11,12 @@ When I first had to do this for a class, pushing changes to the repository was e
 
 Another issue I had were links working when hosting locally, but then breaking when served on GitHub Pages. Clicking around on the hosted site, I noticed the URL paths were terribly incorrect. Some quick Googling and I found this [explanation][url-and-baseurl] by [Michael Rose][michael-rose] that helped me understand the difference between the `url` and `baseurl` variables in the `_config.yml` file. Updating those fixed my issues and I got my links working pefectly!
 
+Check out the project code [here][project-code]!
+
 [youtube-jekyll-tutorial]: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
 [front-matter]: https://jekyllrb.com/docs/front-matter/
 [github-pages]: https://pages.github.com/
 [github-actions]: https://github.com/features/actions
 [url-and-baseurl]: https://mademistakes.com/mastering-jekyll/site-url-baseurl/
 [michael-rose]: https://mademistakes.com/about/
+[project-code]: https://github.com/eliesercapillar/My-Development-Blog/tree/gh-pages
