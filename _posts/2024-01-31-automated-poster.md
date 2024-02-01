@@ -2,7 +2,7 @@
 layout: single
 title: "Automated Poster"
 date: 2024-01-31 23:33:27 -0600
-categories: ex*periences
+categories: experiences
 permalink: /:categories/automated-poster
 ---
 This post was made by a Python scipt I made which reads from a text file, creates a Markdown file containing the content of that text file, saves it in the correct local GitHub Repo, and pushes the changes to serve the post on my GitHub Pages site.
